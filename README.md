@@ -14,3 +14,4 @@ Below are links for live demo of the projects:
 [08 Animated Login Form](https://nebulaanish.github.io/Web-Projects/08%20login%20form%20animation) <br>
 [09 Sound Buttons](https://nebulaanish.github.io/Web-Projects/09%20sound) <br>
 [10 Joke Application using fetch api](https://nebulaanish.github.io/Web-Projects/10%20joke%20application) <br>
+[11 FAQ display](https://nebulaanish.github.io/Web-Projects/11%20faq) <br>
